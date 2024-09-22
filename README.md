@@ -12,6 +12,10 @@
 <h3 align='center' style="color:#4B0082">👋 THEO DÕI TỚ Ở BÊN DƯỚI NHÉ 👋</h3>
 
 ---
+## Contact for work:
+<p>M: loclth.work@gmail.com </p>
+<p>P: 07.888.33920 </p>
+<a href="https://www.facebook.com/hoailoc050504" target="_blank" alt="FaceBook ở đây nèe">FaceBook ở đây nèe</a>
 
 ## 🛠 Tech Stack
 
